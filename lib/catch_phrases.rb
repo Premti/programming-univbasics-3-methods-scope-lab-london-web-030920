@@ -14,5 +14,6 @@ def link
   puts status
 end 
 
-def any_phrase
+def any_phrase do
+  it "takes in "
 end
