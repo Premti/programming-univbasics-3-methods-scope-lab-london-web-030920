@@ -15,5 +15,5 @@ def link
 end 
 
 def any_phrase do
-  it "takes in "
+  it "takes in an argument and puts out the catch phrase"
 end
