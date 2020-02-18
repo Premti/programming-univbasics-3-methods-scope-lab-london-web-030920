@@ -14,6 +14,7 @@ def link
   puts status
 end 
 
-def any_phrase do
-  it "takes in an argument and puts out the catch phrase"
+def any_phrase
+  phrase = "takes in an argument and puts out the catch phrase"
+  puts phrase
 end
